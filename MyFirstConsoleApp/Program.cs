@@ -53,7 +53,6 @@ public class MyFirstConsoleApp
                 // May log here either successed or failed
             }
         }
-
     }
 
     public void callMethod()
@@ -62,3 +61,4 @@ public class MyFirstConsoleApp
         Console.Read();
     }
 }
+//commit test
